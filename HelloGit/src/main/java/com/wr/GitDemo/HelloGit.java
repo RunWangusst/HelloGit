@@ -2,4 +2,7 @@ package com.wr.GitDemo;
 
 public class HelloGit {
 
+    public static void main(String[] args) {
+        System.out.println("Test modify file.");
+    }
 }
